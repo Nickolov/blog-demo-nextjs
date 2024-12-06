@@ -1,0 +1,19 @@
+
+
+.nav-group {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    
+}
+    
+.nav-item-1 { 
+    grid-area: 1 / 2 / 2 / 5;
+}
+
+.nav-item-2 {
+    padding: 40px;
+    grid-area: 1 / 8 / 2 / 10;
+}

@@ -1,0 +1,33 @@
+
+
+
+
+.btn-1 {
+    background: #5500FF;
+    border-radius: 34px;
+    
+}
+
+.btn-2 {
+    background: #0022FF;
+    border-radius: 16px;
+    color:white;
+    font-weight: 600;
+    padding: 10px 20px 10px 20px;
+}
+
+.card-1 {
+
+}
+
+.input-txt-1 {
+    border: 1px solid rgba(0, 0, 0, 0.20);;
+    border-radius: 8px;
+    padding: 8px;
+    
+}
+
+.label-1 {
+    color: #3D3D3D;
+    font-weight: 600;
+}

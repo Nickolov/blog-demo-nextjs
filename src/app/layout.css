@@ -1,0 +1,14 @@
+
+
+.root-body {
+    
+    background: blue;
+}
+
+
+.root-mount {
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: 1fr 9fr;
+    border: 1px solid red;
+}
